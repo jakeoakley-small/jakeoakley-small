@@ -1,5 +1,13 @@
-### Hi there 👋
+# About Me
 
+I'm a student in the UK, currently working through A-Levels and hoping to attend University next year.
+
+# Currently Studying:
+* Computer Science
+* Mathematics
+* Further Mathematics
+
+# All my important 
 <!--
 **jakeoakley-small/jakeoakley-small** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
